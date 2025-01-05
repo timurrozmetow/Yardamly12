@@ -1,0 +1,12 @@
+# Node.js (сервер)
+server/node_modules/
+server/.env
+
+# React/Vite (фронт)
+front/node_modules/
+front/dist/
+front/.env
+
+# Общие временные файлы
+*.log
+*.DS_Store
